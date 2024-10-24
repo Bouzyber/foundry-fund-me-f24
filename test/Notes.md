@@ -1,0 +1,1 @@
+1. Antes de deplegarlo en un smart contract lo que haremos antes es testear
